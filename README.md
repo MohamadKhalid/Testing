@@ -1,2 +1,2 @@
 # Testing
-I am just learning about github.
+WANT TO KNOW ABOUT GITHUB
